@@ -1,0 +1,10 @@
+Keretrendszer alk, 
+focim, 
+tema: kedvenc film/sorozat
+12 db kep min
+sm-6 = 2 oszlop
+md-4 = 3 oszlop
+lg-3 = 4 oszlop
+divekbe kep fele egy leiras, 1-1 mondat, formazas
+semmi css, csak bootstrap
+kepeket aranyosan (img-fluid img-thumbnail)
